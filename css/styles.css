@@ -1,0 +1,16 @@
+.navbar-right h3{
+   display:inline;
+   text-align: right;
+    
+}
+ .header{
+     background-color: green;
+     color: gold;
+     padding: 2em;
+ }
+
+ .header h1{
+    display: inline;
+    text-align: left;
+     
+ }
